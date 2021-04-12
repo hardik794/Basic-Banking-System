@@ -18,13 +18,13 @@ How To Run Project:-
 
  2.Install MongoDB And MongoDB Compass
 
-   -Connect MongoDB Compass with localhost
+   ---Connect MongoDB Compass with localhost
    
-   -Create Database with Name "myproject"
+   ---Create Database with Name "myproject"
    
-   -Collection Name "sparkbank"
+   ---Collection Name "sparkbank"
    
-   -Add Dummy data with field "name" dataType:String , "email" dataType:String , "balance" dataType:Int32.
+   ---Add Dummy data with field -->> "name" dataType:String , "email" dataType:String , "balance" dataType:Int32.
 
  3.In Project File Open Terminal/CMD/PowerShell
 
