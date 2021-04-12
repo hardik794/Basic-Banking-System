@@ -7,7 +7,6 @@ A Web Application used to transfer money between multiple users (Project contain
 **Stack used:**
 
 - Front-end : AngularJs, HTML, CSS, Bootstrap 
-
 - Back-end : NodeJs , ExpressJs ,MongoDB
 
 Database contains two Tables- Customers Table & Transaction History Table
