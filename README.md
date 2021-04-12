@@ -15,13 +15,13 @@ Flow of the Website: Home Page > View all Users > Select and View one User > Tra
 How To Run Project:-
 
  1.Install NodeJs
- 2.
- 3.Install MongoDB And MongoDB Compass
- 4.
- 5.In Project File Open Terminal
- 6.
- 7.Type npm init
- 8.
- 9.type npm install mongoose
- 10.
- 11.type npm install express
+
+ 2.Install MongoDB And MongoDB Compass
+
+ 3.In Project File Open Terminal
+
+ 4.Type npm init
+
+ 5.type npm install mongoose
+
+ 6.type npm install express
