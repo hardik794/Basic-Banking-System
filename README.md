@@ -18,10 +18,22 @@ How To Run Project:-
 
  2.Install MongoDB And MongoDB Compass
 
- 3.In Project File Open Terminal
+   -Connect MongoDB Compass with localhost
+   
+   -Create Database with Name "myproject"
+   
+   -Collection Name "sparkbank"
+   
+   -Add Dummy data with field "name" dataType:String , "email" dataType:String , "balance" dataType:Int32.
 
- 4.Type npm init
+ 3.In Project File Open Terminal/CMD/PowerShell
+
+ 4.type npm init
 
  5.type npm install mongoose
 
  6.type npm install express
+
+ 7.type node server.js
+
+ 8.Open Browser Use This Link to Run Project 'http://localhost:2800'.
